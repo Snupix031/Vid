@@ -1,0 +1,5 @@
+https://hr.wikipedia.org/wiki/Daljinska_istraživanja
+https://www.azooptics.com/Article.aspx?ArticleID=2384
+https://github.com/hrtlacek/SNR/blob/main/SNR.ipynb
+https://en.wikipedia.org/wiki/Signal-to-noise_ratio_(imaging)
+https://www.kaggle.com/code/chanduanilkumar/adding-and-removing-image-noise-in-python/notebook
